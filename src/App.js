@@ -10,7 +10,6 @@ function App() {
       <div className="my-3">
         <h4>React Hooks File Upload</h4>
       </div>
-
       <FileUpload />
     </div>
   );
